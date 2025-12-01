@@ -1,0 +1,6 @@
+Definition github
+
+GitHub est une plateforme web d'hébergement et de gestion de développement de logiciels, utilisant le système de contrôle de version Git Elle permet aux développeurs de stocker, suivre et collaborer sur des projets logiciels, en offrant des outils pour la gestion de versions, le suivi des problèmes, la gestion de tâches, ainsi que des fonctionnalités 
+de collaboration comme les demandes de fonctionnalités, les wikis et les pages web pour chaque projet Fondée en 2008 par Chris Wanstrath, PJ Hyett et Tom Preston-Werner, GitHub est devenue le plus important dépôt de code au monde, utilisé à la fois pour des projets open source publics et des dépôts privés d'entreprises 
+La plateforme est centrée sur l'aspect social du développement, permettant aux utilisateurs de suivre des projets, de créer des forks (copies publiques d'un projet), d'envoyer des pull requests pour proposer des modifications et de fusionner ces changements après examen En 2018, GitHub a été acquis par Microsoft pour 7,5 milliards de dollars 
+Elle propose des comptes gratuits pour les projets open source ainsi que des comptes professionnels payants, et est utilisée dans le monde entier par des développeurs individuels, des équipes et des organisations pour le développement, la maintenance et le déploiement continu de logiciels
